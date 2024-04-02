@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdavinder777" target="blank"><img src="https://img.shields.io/twitter/follow/imdavinder777?logo=twitter&style=for-the-badge" alt="imdavinder777" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://abhi07070.github.io/my_portfolio/](https://abhi07070.github.io/my_portfolio/)
 
