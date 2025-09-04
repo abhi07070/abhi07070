@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/imdavinder777" target="blank"><img src="https://img.shields.io/twitter/follow/imdavinder777?logo=twitter&style=for-the-badge" alt="imdavinder777" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **n8n**
 
 - 👨‍💻 All of my projects are available at [https://abhi07070.github.io/my_portfolio/](https://abhi07070.github.io/my_portfolio/)
 
-- 💬 Ask me about **React & Mern Stack**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **daviverma97819@gmail.com**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/imdavinder777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdavinder777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/davinder-kumar-570814215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davinder-kumar-570814215/" height="30" width="40" /></a>
-<a href="https://instagram.com/amabhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amabhi_" height="30" width="40" /></a>
+<a href="https://instagram.com/davcodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davcodes_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davinder777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davinder777" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/iamdavinder7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamdavinder7" height="30" width="40" /></a>
 </p>
